@@ -13,7 +13,7 @@
     "dialog"
   ],
   "license": "MIT",
-  "homepage": "http://github.com/YOURUSER/x-dialog.html",
+  "homepage": "https://github.com/WebComponentsBook/chapter-16_vulcanize",
   "ignore": [
     "**/.*",
     "node_modules",
